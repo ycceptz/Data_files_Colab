@@ -1,0 +1,14 @@
+CPgExportLongTermMeasurement:Source:Ref1:
+VerticalScale:2.8:
+ExportType:Long term:
+SelectedMeasurement:Meas 1:
+XStart:0:
+XStop:200:
+YStart:-13.74:
+YStop:14.26:
+Resolution:200:
+Samples:1000:
+NumberOfBins:1000:
+UnitHorizontalAxis:s:
+MeasurementType:Phase:
+Timestamp:2023:04:18 17:03 35,904.457.434 s:
