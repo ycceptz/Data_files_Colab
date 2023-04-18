@@ -1,71 +1,14 @@
-CPgReferenceCurveAttributes:SourceType:Source:
-Resolution:2e-012:
-RecordLength:1000:
-HWRecordLength:1000:
-TriggerOffset:0:
-RescaleCenterTime:3.195e-007:
-DecimationMode:Sample:
-TraceArithmetics:Off:
-TraceType:Normal:
-BaseUnit:V:
-BaseUnitRelative:Off:
-Impedance:50:
-XStart:3.18586e-007:
-XStop:3.20586e-007:
-SignalRecordLength:1000:
-HardwareXStart:3.18556e-007:
-HardwareXStop:3.20618e-007:
-SignalHardwareRecordLength:1031:
-AdjustedResolutionBW:0:
-NoiseBandwidth:0:
-InterleavedTraceCount:1:
-ValueType:Completely finite and defined:
-NofQuantisationLevels:253:
-DecimationFactor:0.02:
-TOADone:On:
-ISO_TRG:231:
-SC_POST:1538898512:
-SC_TRG:1538897533:
-SignalResolution:2e-012:
-LeadingSettlingSamples:15:
-TimeScale:2e-010:
-ReferencePoint:-15929.3:
-RescaleCenterPoint:45.7:
-VerticalPosition:-0.68:
-VerticalScale:0.004:
-VerticalOffset:-0.00132:
-BaseYStart:-0.02132:
-BaseYStop:0.01868:
-ViewUnit:V:
-ViewUnitRelative:Off:
-ViewReferenceLevel:0:
-UseInterSampleTriggerOffset:Auto:
-Source:Ch1Wfm1:
-NumericFormat:Decimal:
-EnhancementMode:Interpolated time:
-InterpolationMode:sin(x)/x:
-CenterFreq:0:
-FreqSpan:1000:
-ResolutionBW:1:
-FrequencyStart:0:
-FrequencyStop:0:
-WindowType:Rectangular:
-GateRBWCoupling:Record length controlled:
-HorizontalDivisionCount:10:
-VerticalDivisionCount:10:
-MultiChannelExport:Off:
-MultiChannelVerticalOffset:4:0:0:0:0:
-MultiChannelVerticalPosition:4:0:0:0:0:
-MultiChannelVerticalScale:4:0:0:0:0:
-MultiChannelBaseYStart:4:0:0:0:0:
-MultiChannelBaseYStop:4:0:0:0:0:
-MultiChannelExportState:4:Off:Off:Off:Off:
-MultiChannelViewUnit:4:::::
-FirmwareVersion:3.70.1.0:
-SignalFormat:FLOAT:
-Origin:Waveform export:
-ByteOrder:LSB first:
-NumberOfWaveforms:1:
-TimestampState:Off:
-Timestamp:2023:04:18 15:40 25,581.957.068 s:
-XAxisMode:Linear:
+CPgExportLongTermMeasurement:Source:Ref1:
+VerticalScale:4:
+ExportType:Long term:
+SelectedMeasurement:Meas 1:
+XStart:0:
+XStop:200:
+YStart:-199.9:
+YStop:-159.9:
+Resolution:200:
+Samples:1000:
+NumberOfBins:1000:
+UnitHorizontalAxis:s:
+MeasurementType:Phase:
+Timestamp:2023:04:18 15:44 33,727.240.716 s:
